@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gi4nks/ink/compare/v1.0.0...v1.1.0) (2026-03-29)
+
+
+### Features
+
+* add README and CLAUDE.md, fix exports to point to dist/ ([d82466a](https://github.com/gi4nks/ink/commit/d82466a6486652a27eaca3a3180391a7cab92020))
+
 # 1.0.0 (2026-03-29)
 
 

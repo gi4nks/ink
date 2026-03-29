@@ -1,6 +1,6 @@
 {
   "name": "@gi4nks/ink",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Shared Ink/React design system for gi4nks CLI tools",
   "type": "module",
   "main": "./dist/index.cjs",
