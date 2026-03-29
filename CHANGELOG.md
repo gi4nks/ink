@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/gi4nks/ink/compare/v1.1.0...v1.2.0) (2026-03-29)
+
+
+### Features
+
+* add AppHeader and AppFooter shared components ([ac49b4d](https://github.com/gi4nks/ink/commit/ac49b4d2a69b90df9209867633b7a33eed5808ac))
+
 # [1.1.0](https://github.com/gi4nks/ink/compare/v1.0.0...v1.1.0) (2026-03-29)
 
 
