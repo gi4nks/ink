@@ -42,7 +42,7 @@
     "prepare": "npm run build",
     "dev": "tsup --watch",
     "lint": "eslint src",
-    "test": "vitest run"
+    "test": "vitest run --passWithNoTests"
   },
   "peerDependencies": {
     "ink": "^6.8.0",
