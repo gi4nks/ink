@@ -20,6 +20,8 @@ export default [
         console: "readonly",
         setTimeout: "readonly",
         clearTimeout: "readonly",
+        setInterval: "readonly",
+        clearInterval: "readonly",
         fetch: "readonly",
       },
     },
@@ -36,6 +38,7 @@ export default [
       "@typescript-eslint/no-unused-vars": ["warn", { "argsIgnorePattern": "^_" }],
       "@typescript-eslint/no-explicit-any": "warn",
       "no-empty": ["error", { "allowEmptyCatch": true }],
+      "react-hooks/set-state-in-effect": "off",
     },
     settings: {
       react: {

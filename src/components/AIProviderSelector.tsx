@@ -53,7 +53,7 @@ export const AIProviderSelector: React.FC<AIProviderSelectorProps> = ({
       .catch(() => { /* keep static list */ })
       .finally(() => { if (!cancelled) setOllamaLoading(false); });
     return () => { cancelled = true; };
-  }, [draftProvider, committedOllamaUrl]);
+  }, [draftProvider, committedOllamaUrl, draftModel]);
 
   useInput((char, key) => {
     if (!isActive) return;
