@@ -23,3 +23,6 @@ export { KeyHint } from './components/KeyHint.js';
 export type { ConfigField } from './components/ConfigView.js';
 export { ConfigView } from './components/ConfigView.js';
 export { AIProviderSelector } from './components/AIProviderSelector.js';
+export { AppHeader } from './components/AppHeader.js';
+export type { HintItem } from './components/AppFooter.js';
+export { AppFooter } from './components/AppFooter.js';
