@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/gi4nks/ink/compare/v1.2.0...v1.3.0) (2026-04-17)
+
+
+### Features
+
+* migrate to npmjs and add commitlint validation ([fb480ff](https://github.com/gi4nks/ink/commit/fb480ff6d896caa08e08379a3c03a25205506fdd))
+
 # [1.2.0](https://github.com/gi4nks/ink/compare/v1.1.0...v1.2.0) (2026-03-29)
 
 
