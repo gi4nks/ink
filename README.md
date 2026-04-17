@@ -6,15 +6,6 @@ Provides standardized themes, unicode symbols, layout constants, and React compo
 
 ## Installation
 
-This package is hosted on **GitHub Packages**. Configure `.npmrc` in your project root:
-
-```
-@gi4nks:registry=https://npm.pkg.github.com
-//npm.pkg.github.com/:_authToken=YOUR_GITHUB_TOKEN
-```
-
-Then install:
-
 ```bash
 npm install @gi4nks/ink
 ```
