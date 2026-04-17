@@ -45,7 +45,7 @@
   },
   "scripts": {
     "build": "tsup",
-    "prepare": "husky && npm run build",
+    "prepare": "if [ -z \"$CI\" ]; then husky; fi && npm run build",
     "dev": "tsup --watch",
     "lint": "eslint src",
     "test": "vitest run --passWithNoTests"
