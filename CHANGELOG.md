@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/gi4nks/ink/compare/v1.4.0...v1.5.0) (2026-04-17)
+
+
+### Features
+
+* enable npm provenance and trusted publishing ([f3cad43](https://github.com/gi4nks/ink/commit/f3cad4313b6f64457def0d08bf37458e36ea27f5))
+
 # [1.4.0](https://github.com/gi4nks/ink/compare/v1.3.0...v1.4.0) (2026-04-17)
 
 
