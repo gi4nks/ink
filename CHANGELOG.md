@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/gi4nks/ink/compare/v1.3.0...v1.4.0) (2026-04-17)
+
+
+### Features
+
+* optimize package size and whitelist distribution files ([e20014e](https://github.com/gi4nks/ink/commit/e20014ee3face62cc5c9eab9e176a18eb1dfd426))
+
 # [1.3.0](https://github.com/gi4nks/ink/compare/v1.2.0...v1.3.0) (2026-04-17)
 
 
