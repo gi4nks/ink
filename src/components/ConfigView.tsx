@@ -173,7 +173,7 @@ export const ConfigView: React.FC<ConfigViewProps> = ({
     if (editing && isSelected) {
       return (
         <Box>
-          <Text color="white" backgroundColor={theme.secondary as string}> {isPassword ? '••••••••' : editValue} </Text>
+          <Text color={theme.bg as string} backgroundColor={theme.secondary as string}> {isPassword ? '••••••••' : editValue} </Text>
           <Text color={theme.primary}>{symbols.textCursor}</Text>
         </Box>
       );

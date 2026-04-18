@@ -118,7 +118,7 @@ export const AIProviderSelector: React.FC<AIProviderSelectorProps> = ({
         <Box flexGrow={1}>
           {isEditing && isSelected ? (
             <Box>
-              <Text color="white" backgroundColor={theme.secondary as string}> {displayValue} </Text>
+              <Text color={theme.bg as string} backgroundColor={theme.secondary as string}> {displayValue} </Text>
               <Text color={theme.primary}>{symbols.textCursor}</Text>
             </Box>
           ) : (

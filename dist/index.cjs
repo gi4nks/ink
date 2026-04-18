@@ -294,7 +294,7 @@ var AIProviderSelector = ({
         ": "
       ] }) }),
       /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(import_ink4.Box, { flexGrow: 1, children: isEditing && isSelected ? /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)(import_ink4.Box, { children: [
-        /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)(import_ink4.Text, { color: "white", backgroundColor: theme.secondary, children: [
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)(import_ink4.Text, { color: theme.bg, backgroundColor: theme.secondary, children: [
           " ",
           displayValue,
           " "
@@ -462,7 +462,7 @@ var ConfigView = ({
     const isPassword = field.type === "password";
     if (editing && isSelected) {
       return /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)(import_ink5.Box, { children: [
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)(import_ink5.Text, { color: "white", backgroundColor: theme.secondary, children: [
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)(import_ink5.Text, { color: theme.bg, backgroundColor: theme.secondary, children: [
           " ",
           isPassword ? "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022" : editValue,
           " "
