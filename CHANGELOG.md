@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/gi4nks/ink/compare/v1.5.0...v1.5.1) (2026-04-18)
+
+
+### Bug Fixes
+
+* **ui:** improve contrast of editing fields ([9c6ec5b](https://github.com/gi4nks/ink/commit/9c6ec5be5b474a636651fb41080c73b437c44518))
+
 # [1.5.0](https://github.com/gi4nks/ink/compare/v1.4.0...v1.5.0) (2026-04-17)
 
 
