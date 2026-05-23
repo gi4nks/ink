@@ -10,6 +10,10 @@ interface Theme {
     error: string;
     dim: string;
     bg: string;
+    fg: string;
+    border: string;
+    selection: string;
+    info: string;
 }
 declare const THEMES: Record<string, Theme>;
 declare const THEME_NAMES: string[];
